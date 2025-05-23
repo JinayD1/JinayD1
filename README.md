@@ -1,6 +1,6 @@
 hi, i'm Jinay, an aspiring software engineer in Ontario👋
 
-i am currently a senior at Turner Fenton SS, in the IB program. incoming at uwaterloo cs🧠 
+i am currently a senior at Turner Fenton SS, in the IB program. incoming at uwaterloo cs. 🧠
 
 in the past year, i have been able to build various projects and get into AI and web development. 
 
