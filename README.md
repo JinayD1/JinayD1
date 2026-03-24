@@ -15,9 +15,8 @@ next steps⏩:
 - creating more innovative projects through hackathons across Canada
 
 feel free to reach out if you have any questions or would like to collaborate
-- @jinayd1 on instagram
-- jinaynd@gmail.com
-
+- @jinaydesai_ on X
+  
 <!---
 JDcool123/JDcool123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
